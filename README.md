@@ -1,5 +1,5 @@
 # Template
-This is a project is a clone of Kasper Template using HTML and CSS 
+This is a project is a clone of Kasper Template using HTML and CSS for practice 
 # Screenshots
 # Home 
 ![Alt Text](Screenshots/Home.png)
